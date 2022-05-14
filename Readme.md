@@ -45,4 +45,8 @@ Burn the firmware to hardware :
 7. Select the hexfile from flash section
 8. Hit Program button
 
+Hardware : 
+
+<img src="image.jpeg" >
+
 Thank You.
